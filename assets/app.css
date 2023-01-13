@@ -1,0 +1,43 @@
+body {
+  background-color: #cee6fc;
+}
+
+.navbar a {
+  font-family: "Oswald", sans-serif;
+}
+
+.blurb .blurb h2 {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.iNav a {
+  font-size: 1.1rem;
+  width: 6vmax;
+  color: white;
+}
+
+.iImg {
+  width: 2rem;
+  height: 2rem;
+}
+
+#txt-museum h1 {
+  font-weight: 450;
+  font-size: 4rem;
+}
+
+@media (max-width: 1200px) {
+  #txt-museum h1 {
+    font-weight: 450;
+    font-size: 3rem;
+  }
+}
+
+.iNav a:hover {
+  color: black;
+}
+
+.navbar-brand {
+  font-size: 1.6rem;
+}
